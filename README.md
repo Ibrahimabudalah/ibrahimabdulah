@@ -3,7 +3,13 @@
 
 ### A passionate full-stack developer from Canada!	
 
-👨‍💻 I’m a recent bootcamp graduate and looking for my first dev position!💻 I’m currently learning TypeScript & Tailwind CSS.⚡ Fun fact: I used to be enrolled in a computer science program, as my interest in programming increased I decided to take the shorter route and graduate from a web development bootcamp.🌘 When I'm not coding, you can either find me working out, gaming, or watching YouTube/Netflix.📲
+👨‍💻 I’m a recent bootcamp graduate and looking for my first dev position! <br>
+<br>
+💻 I’m currently learning TypeScript & Tailwind CSS.<br>
+<br>
+⚡ Fun fact: I used to be enrolled in a computer science program, as my interest in programming increased I decided to take the shorter route and graduate from a web development bootcamp. <br> 
+<br>
+🌘 When I'm not coding, you can either find me working out, gaming, or watching YouTube/Netflix.📲
 
 
 ## 🌐 Socials:
