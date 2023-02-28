@@ -40,6 +40,6 @@
 
 # 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimabdulah&count_private=true&theme=github_dark)](https://github.com/ibrahimabdulah/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimabdulah&theme=dark&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ibrahimabdulah&theme=nightowl)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimabdulah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
